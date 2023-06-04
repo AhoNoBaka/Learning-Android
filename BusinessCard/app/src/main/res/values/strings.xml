@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="title">Junior Android Developer</string>
+    <string name="name">Adrian Jay Gimeno</string>
+    <string name="contact_number">+93 976 291 2492</string>
+    <string name="email">gimenoadrianjay@gmail.com</string>
+    <string name="handle">AhoNoBaka</string>
+</resources>
